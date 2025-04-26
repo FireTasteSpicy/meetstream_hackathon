@@ -59,7 +59,6 @@
 4. **Version Control**: Git
 5. **Authentication**: Django token-based auth
 6. **External APIs**: GitHub API, Jira API
-7. **Code Analysis**: Radon library (for Python code metrics)
 
 ## Functionality Flow
 
